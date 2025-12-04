@@ -2,6 +2,12 @@
 
 Aplikasi sederhana untuk mengubah suara menjadi teks (Speech-to-Text) dan menyimpannya sebagai catatan. Dibangun menggunakan PHP Native dan Vanilla JavaScript (Web Speech API).
 
+## 🌐 Demo Live
+Cobain langsung aplikasinya di sini:
+- **URL:** [https://demoin.pro/vtt/](https://demoin.pro/vtt/)
+- **Username:** `github`
+- **Password:** `github123`
+
 ## Fitur
 - 🎤 **Rekam Suara ke Teks:** Menggunakan Web Speech API yang akurat (mendukung Bahasa Indonesia).
 - 📝 **Simpan Catatan:** Menyimpan hasil transkripsi ke dalam file JSON (tanpa database SQL).

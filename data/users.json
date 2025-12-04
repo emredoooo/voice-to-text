@@ -6,9 +6,9 @@
         "name": "Administrator"
     },
     {
-        "id": 2,
-        "username": "uty",
-        "password": "uty123",
-        "name": "Dr. Uty"
+        "id": 3,
+        "username": "github",
+        "password": "github123",
+        "name": "github"
     }
 ]
